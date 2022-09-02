@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Countdown_Time.Form1.resources
+obj\Debug\Countdown_Time.Resources.resources
+bin\Debug\Timer.exe
+bin\Debug\Timer.pdb
+bin\Debug\Timer.xml
+obj\Debug\Timer.vbproj.GenerateResource.Cache
+obj\Debug\Timer.exe
+obj\Debug\Timer.xml
+obj\Debug\Timer.pdb
+obj\Debug\Countdown_Time.AboutBox1.resources
